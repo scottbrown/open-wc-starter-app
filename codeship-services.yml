@@ -1,0 +1,4 @@
+app:
+  build:
+    image: open-wc-starter-app
+    dockerfile: Dockerfile
